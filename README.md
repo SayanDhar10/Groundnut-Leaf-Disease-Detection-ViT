@@ -26,11 +26,11 @@ This dataset contains a total of **1,720 images** of groundnut leaves collected 
 
 <table align="center">
   <tr>
-    <td align="center"><img src="images/Healthy.jpg" width="120px"></td>
-    <td align="center"><img src="images/Alternaria Leaf Spot.jpg" width="120px"></td>
-    <td align="center"><img src="images/Leaf Spot.jpg" width="120px"></td>
-    <td align="center"><img src="images/Rust.jpg" width="120px"></td>
-    <td align="center"><img src="images/Rosette.jpg" width="120px"></td>
+    <td align="center"><img src="Groundnut_Input_Images/Healthy.jpg" width="120px"></td>
+    <td align="center"><img src="Groundnut_Input_Images/Alternaria Leaf Spot.jpg" width="120px"></td>
+    <td align="center"><img src="Groundnut_Input_Images/Leaf Spot.jpg" width="120px"></td>
+    <td align="center"><img src="Groundnut_Input_Images/Rust.jpg" width="120px"></td>
+    <td align="center"><img src="Groundnut_Input_Images/Rosette.jpg" width="120px"></td>
   </tr>
   <tr>
     <td align="center"><b>Healthy</b></td>
@@ -102,7 +102,7 @@ This dataset contains a total of **1,720 images** of groundnut leaves collected 
 A visual representation of model performance across classes:
 
 <p align="center">
-  <img src="images/Confusion_Matrix.png" width="500px">
+  <img src="Groundnut_Output_Images/Confusion_Matrix.png" width="500px">
 </p>
 
 ---
@@ -112,7 +112,7 @@ A visual representation of model performance across classes:
 The loss curve illustrates how the model converges during training:
 
 <p align="center">
-  <img src="images/Loss_Curve.png" width="500px">
+  <img src="Groundnut_Output_Images/Loss_Curve.png" width="500px">
 </p>
 
 ---
@@ -152,7 +152,7 @@ Follow the steps below to clone and run this project on your machine:
 
 ```bash
 git clone https://github.com/SayanDhar10/Groundnut-Leaf-Disease-Detection-ViT.git
-cd neemleaf-vit
+cd Groundnut-Leaf-Disease-Detection-ViT
 ```
 ---
 2️⃣ Install Required Libraries
