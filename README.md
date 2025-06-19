@@ -151,7 +151,7 @@ Follow the steps below to clone and run this project on your machine:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/suman2896/neemleaf-vit.git
+git clone https://github.com/SayanDhar10/Groundnut-Leaf-Disease-Detection-ViT.git
 cd neemleaf-vit
 ```
 ---
